@@ -1,21 +1,6 @@
 # craftconomy3
 A Economy plugin for Bukkit &amp; Canary Recode!
 
-
-Skip to content
- 
-Search…
-All gists
-GitHub
-New gist
-0
-0@chamunkschamunks/gist:37f263bb31ee97772ac3 Secret
-Created 2 years ago • 
- 
-<script src="https://gist.github.com/chamunks/37f263bb31ee97772ac3.js"></script>
-  
- Code  Revisions 1
- gistfile1.txt
 # Initial Setup Commands
 ### Admin Only
 
